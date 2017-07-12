@@ -1,0 +1,32 @@
+{
+  "name": "fullstackjs",
+  "version": "1.0.0",
+  "description": "Educational Material",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ella Musina",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flurdulis/fullstackjs.git"
+  },
+  "keywords": [
+    "mongodb",
+    "reactjs",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/flurdulis/fullstackjs/issues"
+  },
+  "homepage": "https://github.com/flurdulis/fullstackjs#readme"
+}
